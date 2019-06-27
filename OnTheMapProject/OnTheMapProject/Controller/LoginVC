@@ -1,0 +1,20 @@
+//
+//  ViewController.swift
+//  OnTheMapProject
+//
+//  Created by xXxXx on 22/06/2019.
+//  Copyright © 2019 abdullah. All rights reserved.
+//
+
+import UIKit
+
+class LoginVC: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
